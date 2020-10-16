@@ -1,0 +1,10 @@
+.btn_btn-primary{
+  transition-duration: 0.4s;
+
+}
+.btn_btn-primary:hover {
+background-color: #4CAF50; /* Green */
+color: white;
+border-radius: 50%;
+padding: 32px 16px;
+}
